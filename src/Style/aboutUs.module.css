@@ -1,0 +1,22 @@
+.container{
+    margin-top: 40px;
+    display: flex;
+    width: 100%;
+    height: 50vh;
+    background-color: #0b0730;;
+}
+.aboutText{
+    text-align: left;
+    width: 70%;
+    margin-left: 150px;
+    color: white;
+
+}
+.aboutI{
+    width: 10%;
+    object-fit: cover;
+    position: absolute;
+}
+.social{
+    color: white;
+}

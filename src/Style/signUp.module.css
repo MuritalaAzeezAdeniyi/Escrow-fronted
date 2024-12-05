@@ -1,0 +1,112 @@
+.input{
+    margin-top: 40px;
+    display:flex;
+    flex-direction: column;
+    gap: 20px
+}
+.input{
+    height: 50px;
+    width: 400px;
+    margin-left: -70px;
+    background: transparent;
+    border: none;
+    outline: none;
+    color:rgb(255, 254, 254);
+    font-size: 19px; 
+}
+.export{
+    color: darkblue;
+    font-weight: 20px;
+    font-size: medium;
+
+}
+.font{
+
+    width: 1150px;
+    height: 1500px;
+}
+.header{
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    flex-direction: column;
+    margin-left: 40%; 
+}
+.underline{
+    width: 60px;
+    height: 6px;
+    border-radius: 9px;
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
+    margin-top: -40px;
+    background-color:red;
+    background-color:rgb(51, 43, 206);
+}
+
+.input{
+    height: 50px;
+    width: 400px;
+    margin-left: 7;
+    background: transparent;
+    border: none;
+    outline: none;
+    color:rgb(255, 254, 254);
+    font-size: 19px;
+    justify-content: center; 
+
+}
+.input{
+    margin-top: 40px;
+    display:flex;
+    flex-direction: column;
+    gap: 20px
+}
+.input{
+    display: flex;
+    align-items: center;
+    margin: auto;
+    width:350px;
+    height:400px;
+    background-color: #eaeaea;
+    border-radius: px;
+    margin-top: -0px;
+    margin-top: 5%;
+    border-radius: 6px;
+    justify-content: center;
+    justify-items: center;
+}
+.input input{
+    height: 30px;
+    width: 200px;
+    background: transparent;
+    border:none;
+    outline:none;
+    color:white;
+    background-color: #797979;
+    font-size: 10px;
+}
+.header{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 9px;
+    width: 100px;
+    font-size:15px;
+    font-weight: 15px;
+     margin-top :-5px;
+     margin-left: 10px;
+     color: rgb(51, 43, 206);
+
+}
+.submit{
+    color: white;
+    background-color: rgb(51, 43, 206);
+    height: 30px;
+    width: 40px;
+    font-size: 15px;
+    font-weight: 15px;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-top: -10px;
+}

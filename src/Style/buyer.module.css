@@ -1,0 +1,23 @@
+
+.buyerT{
+    width: 100%;
+    height: 80vh;
+    background-color: #e4e4f2;
+    
+}
+.benefit{
+    font-size: 40px;
+    color: #150f50;
+    text-align: left;
+}
+.mid{
+    font-size: 25px;
+    color: #150f50;
+    text-align: left;
+
+}
+.text{
+    font-size: small;
+    text-align: left;
+     padding: 5px;
+}

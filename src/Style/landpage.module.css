@@ -1,0 +1,110 @@
+
+.navbar {
+    
+    overflow: hidden;
+    display: flex;
+    gap: 10px;
+    width: 5%;
+    
+}
+.brtD{
+    float: left;
+    transform: translateX(-400px);
+    margin-top: 280px;
+    display: grid;
+    grid-template-columns: repeat(2,30%);
+    gap: 10px;
+    width:20%;
+    transform: translateY(-370px);
+    margin-left: 900px;
+
+}
+ /* .brt{
+    padding: 50px;
+    font-size: large;
+}
+.brt1{
+    padding: 50px;
+    font-size: large;
+}  */
+.logo{
+    width: 10%;
+    margin-top: 10px;
+    margin-left: 20px;
+    clip-path: circle(35% at 40% 50% );
+}
+.Bphoto{
+    transform: translateX(-1200px);
+    clip-path: circle(50% at 50% 50% );
+    width: 55%;
+    box-sizing: border-box;
+    box-shadow: #ddd;
+    transform: translateY(-300px);
+    margin-left: 70px;
+}
+.Exprience{
+    font-size: 140%;
+    color: #4CAF50;
+    margin-left: -95px;
+}
+.corp{
+    font-size: 90%;
+    font-weight: bold;
+    color: white;
+    margin-left: -80px;
+}
+
+
+
+.navbar a {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 30px 30px;
+    text-decoration: none;
+    width: 25px;
+    font-size: large;
+    margin-top:-15px;
+    gap:15px;
+}
+
+
+.navbar a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+
+.navbar a.active {
+    background-color: #4CAF50;
+    color: white;
+}
+
+
+
+
+
+
+
+    
+.navbar{
+    width: 96%;
+    height: 80%;
+    background-position: center;
+    background-image: url('../asset/reimagine-freepik-h.jpeg');
+    background-size:cover;
+    z-index: -1;
+    position: absolute;
+    padding: 10px;
+    left: 15px;
+}
+.photoD{
+width: 50%;
+transform: translateX(590px);
+height: 20px;
+}
+.textBD{
+    width: 70%;
+    transform: translateY(-190px);
+}
