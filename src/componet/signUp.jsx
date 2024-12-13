@@ -1,3 +1,4 @@
+
 import React, { useState } from 'react';
 import axios from "axios";
 
@@ -17,8 +18,6 @@ const SignUp =()=> {
             [name]: value
         }));
     };
-
-
     return (
         <form>
             <div>

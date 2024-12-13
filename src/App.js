@@ -11,7 +11,7 @@ import SignUp from '../src/componet/signUp'
 
 function App() {
   return (
-    <div className="App">
+    <div className="App"
       <Body/>
       {/*  <SignUp/>*/}
     </div>
